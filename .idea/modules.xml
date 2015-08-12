@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/toto.iml" filepath="$PROJECT_DIR$/toto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toto-ear/toto-ear.iml" filepath="$PROJECT_DIR$/toto-ear/toto-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toto-ejb/toto-ejb.iml" filepath="$PROJECT_DIR$/toto-ejb/toto-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toto-web/toto-web.iml" filepath="$PROJECT_DIR$/toto-web/toto-web.iml" />
     </modules>
   </component>
 </project>

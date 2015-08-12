@@ -22,11 +22,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="toto" />
+        <module name="toto-ear" />
+        <module name="toto-ejb" />
+        <module name="toto-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="toto" target="1.5" />
+      <module name="toto" target="1.7" />
+      <module name="toto-ear" target="1.7" />
+      <module name="toto-ejb" target="1.7" />
+      <module name="toto-web" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
